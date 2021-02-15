@@ -100,7 +100,7 @@ bool cGame::loadTexures(){
 		{"images/Kystal_BackTile024.png", 1, 1, 0},		//68
 		{"images/Kystal_BackTile025.png", 1, 1, 0},		//69
 		{"images/TT_Fontset_01.png", 1, 66, 0},			//70
-		{"images/Explosion.png", 5, 5, 0},				//71
+		{"images/explosion.png", 5, 5, 0},				//71
 		{"images/spritesheet.png", 9, 9, 0}				//72
 		};				//71
 
